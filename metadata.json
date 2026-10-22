@@ -1,0 +1,6 @@
+{
+  "name": "Deedat Archive - Debates, Perguntas e Respostas",
+  "description": "Arquivo completo das perguntas, respostas, versículos bíblicos e debates históricos de Sheikh Ahmed Deedat com áudio em segundo plano, busca avançada e modo offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
